@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs_Up
 ## Overview of the analysis
 Surf is a recently discovered passion of mine, and I've come up with the idea of stablishing a Surf n' Shake shop in Oahu, to provide surf boards and icecream to locals and tourists. In order to get the necessary fundings for the business, I've contacted an investor, W. Avy, who will most likely be interested (he loves surf!). The purpose of this analysis is to provide the necessary data to back up this business decision, specially based on the weather. 
 W. Avy expressed a special concern about the months of June and December, so those are the focus of the analysis.
